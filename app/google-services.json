@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "194210411846",
+    "project_id": "yuritzy-firebase",
+    "storage_bucket": "yuritzy-firebase.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:194210411846:android:3b780b2d642953974c2147",
+        "android_client_info": {
+          "package_name": "com.example.yuritzy_firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "194210411846-v9ahe56g0qu2e64l4lqmqija2l3pflpl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBjgbEy1fkHDWdIfH8ePBZ77w_D0T-w6YA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "194210411846-v9ahe56g0qu2e64l4lqmqija2l3pflpl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
